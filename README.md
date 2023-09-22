@@ -43,6 +43,12 @@ _Feel free to to add a mini profile with links to you, your organization, and an
 * Interested in: realtime, multiplayer, local-first, collaborative tech, but also books, pierogis, and plants
 * London, UK (come visit our beautiful office!)
 
+## Paul
+* Building experimental personal computing systems.
+* https://briarproject.org
+* paul (at) briarproject.org
+* Mesh Networking, Structured Editing, and Computer Interface Design.
+
 ## Attendee Name
 * One liner 
 * Organization or project affiliation
@@ -54,6 +60,13 @@ _Feel free to to add a mini profile with links to you, your organization, and an
 # Projects
 
 _Links to software. Please link to (open) source code, your attendee profile is the right place for company affiliations_
+
+## Briar Project
+* Briar Project is an offline-first, p2p messaging system that supports transmitting messages over the tor network, WLAN, and Bluetooth.
+* https://briarproject.org
+* [Android Source Code]()
+* [Desktop Source Code]()
+* Briar is built on an encryption and synchronization layer called [Bramble](https://code.briarproject.org/briar/briar-spec) to privately synchronize directed acyclic graphs.
 
 ## Some Project
 * a one liner of what it does
