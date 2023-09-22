@@ -36,6 +36,13 @@ _Feel free to to add a mini profile with links to you, your organization, and an
 * What are missing tools for local-first? Why local-first now? What are the structural advantages of LoFi?
 * San Jose, CA
 
+## Sylwia Vargas
+* Let's make Internet more collaborative 🥰
+* CXO at [PartyKit](https://www.partykit.io/)
+* Find me on [Twitter](https://twitter.com/SylwiaVargas), [GitHub](https://github.com/sylwiavargas), [BlueSky](https://bsky.app/profile/sylwia.bsky.social), [Mastodon](https://elk.zone/m.webtoo.ls/@sylwia)
+* Interested in: realtime, multiplayer, local-first, collaborative tech, but also books, pierogis, and plants
+* London, UK (come visit our beautiful office!)
+
 ## Attendee Name
 * One liner 
 * Organization or project affiliation
