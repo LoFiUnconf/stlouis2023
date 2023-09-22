@@ -29,6 +29,13 @@ _Feel free to to add a mini profile with links to you, your organization, and an
 * Ask me about IPFS, tools for thought, DWeb, event organizing, my food wiki, and post-open source
 * Based in Vancouver, BC, Canada
 
+## Wil Chung
+* Tools for thought. Advancing Local-first architecture. Narrow gap between humans and computers.
+* [My Github](https://github.com/iamwilhelm/)
+* [Twitter: @iamwil](https://twitter.com/iamwil)
+* What are missing tools for local-first? Why local-first now? What are the structural advantages of LoFi?
+* San Jose, CA
+
 ## Sylwia Vargas
 * Let's make Internet more collaborative 🥰
 * CXO at [PartyKit](https://www.partykit.io/)
