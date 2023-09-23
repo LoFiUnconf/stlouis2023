@@ -6,11 +6,11 @@ A community event for everybody interested in local-first software in St. Louis,
 
 ​We particularly want to bring together people who are actively working on local-first projects — be it building frameworks or tools, developing local-first apps, or doing research in the area. But we also welcome people who are simply curious and want to learn more about the topic.
 
-​The event will have an informal unconference style. Instead of a series of long presentations, we will have self-organized discussion groups around your topics of interest. 
+​The event will have an informal unconference style. Instead of a series of long presentations, we will have self-organized discussion groups around your topics of interest.
 
 [Registration](https://lu.ma/localfirstswunconf-stlouis) is currently full. [Add your name to the waitlist](https://forms.gle/1CQRCFqrGQKyXb4R9) - we will be doing a final announcement on Friday.
 
-Organizers: 
+Organizers:
 
 * Brooklyn Zelenka
 * Martin Kleppmann
@@ -36,6 +36,16 @@ _Feel free to to add a mini profile with links to you, your organization, and an
 * What are missing tools for local-first? Why local-first now? What are the structural advantages of LoFi?
 * San Jose, CA
 
+## Steven Deobald
+* Third-Wave Commercial Open Source. Vipassana. Off-grid. Co-ops.
+* (Ex-)Founder of [nilenso](https://nilenso.com), India's first worker-owned tech co-op
+* Founder of the Fortyfourforty Forest Society (a hacker village land co-op)
+* Author of [Vipassana for Hackers](https://www.vipassana-for-hackers.org), meditation for the practically-minded
+* Founder of [Endatabas](https://www.endatabas.com), a hybrid SQL document database with full history
+* `@deobald` everywhere: [GitHub](https://github.com/deobald), [Mastodon](https://fantastic.earth/@deobald), [Twitter](https://twitter.com/deobald), [deobald.ca](https://www.deobald.ca)
+* immutable data is (arguably) the yin to local-first's yang
+* Halifax, NS, Canada / Bangalore, KA, India
+
 ## Sylwia Vargas
 * Let's make Internet more collaborative 🥰
 * CXO at [PartyKit](https://www.partykit.io/)
@@ -54,7 +64,6 @@ _Feel free to to add a mini profile with links to you, your organization, and an
 * https://jessmart.in
 * jess at dxos.org
 * Interested in building tools for building tools.
-
 
 ## Moritz Neeb
 * https://github.com/zormit/
@@ -78,13 +87,13 @@ _Feel free to to add a mini profile with links to you, your organization, and an
 * [Nelson, BC](https://www.google.com/maps/place/Nelson,+BC/@49.4954659,-117.3291896,13z/data=!3m1!4b1!4m6!3m5!1s0x537cb41f1c6bb871:0x6d0054861620bcc2!8m2!3d49.4928119!4d-117.2948343!16zL20vMDFndHZo?entry=ttu)
 
 ## Attendee Name
-* One liner 
+* One liner
 * Organization or project affiliation
 * Places to follow you on the internet
 * Some things you're interested in, keyword style
 * A geo-location
 * Everything is optional
-  
+
 # Projects
 
 _Links to software. Please link to (open) source code, your attendee profile is the right place for company affiliations_
@@ -95,6 +104,11 @@ _Links to software. Please link to (open) source code, your attendee profile is 
 * [Android Source Code]()
 * [Desktop Source Code]()
 * Briar is built on an encryption and synchronization layer called [Bramble](https://code.briarproject.org/briar/briar-spec) to privately synchronize directed acyclic graphs.
+
+## Endatabas
+* Endatabas is a hybrid (HTAP) SQL document database with full history
+* https://github.com/endatabas/endb ([Docs](https://docs.endatabas.com))
+* Steven Deobald / Håkan Råberg - Common Lisp, Rust, Apache Arrow
 
 ## DXOS
 * A developer platform for building local-first, multiplayer, interoperable apps where users own their own data. 
@@ -111,12 +125,6 @@ _Links to software. Please link to (open) source code, your attendee profile is 
 * https://odd.dev/
 * TypeScript SDK, UCAN, WNFS
 * Workshop: https://github.com/oddsdk/local-first-unconf-workshop-2023
-
-
-* a one liner of what it does
-* a cool source code link
-* some keywords and/or associated people
-
 
 # Notes
 
