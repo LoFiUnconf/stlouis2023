@@ -55,6 +55,12 @@ _Feel free to to add a mini profile with links to you, your organization, and an
 * jess at dxos.org
 * Interested in building tools for building tools.
 
+## Moritz Neeb
+* https://github.com/zormit/
+* Ethersync
+* Interested in building/contributing to open source software
+* Hamburg, Germany
+
 ## Attendee Name
 * One liner 
 * Organization or project affiliation
@@ -78,6 +84,11 @@ _Links to software. Please link to (open) source code, your attendee profile is 
 * A developer platform for building local-first, multiplayr, interoperable apps where users own their own data. 
 * https://dxos.org
 * React and TypeScript SDK
+
+## Ethersync
+* Real-time collaborative editing of local text files.
+* It's in the ideation/planning phase
+* Talk to Moritz Neeb
 
 ## Some Project
 * a one liner of what it does
