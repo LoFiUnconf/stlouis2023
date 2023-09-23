@@ -55,6 +55,13 @@ _Feel free to to add a mini profile with links to you, your organization, and an
 * jess at dxos.org
 * Interested in building tools for building tools.
 
+## Matt Wynne
+* Independent consultant/contractor - available for hire!
+* Co-lead of https://github.com/cucumber project (15 years old! 🥒)
+* https://mattwynne.net/about
+* TypeScript / Ruby / Refactoring / TDD / OpenSource / Sustainability / Simplicty
+* [Nelson, BC](https://www.google.com/maps/place/Nelson,+BC/@49.4954659,-117.3291896,13z/data=!3m1!4b1!4m6!3m5!1s0x537cb41f1c6bb871:0x6d0054861620bcc2!8m2!3d49.4928119!4d-117.2948343!16zL20vMDFndHZo?entry=ttu)
+
 ## Attendee Name
 * One liner 
 * Organization or project affiliation
