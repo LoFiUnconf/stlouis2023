@@ -55,6 +55,13 @@ _Feel free to to add a mini profile with links to you, your organization, and an
 * jess at dxos.org
 * Interested in building tools for building tools.
 
+
+## Moritz Neeb
+* https://github.com/zormit/
+* Ethersync
+* Interested in building/contributing to open source software
+* Hamburg, Germany
+
 ## Lu Wilson
 * slightly-surreal creative-coding
 * tldraw
@@ -62,7 +69,6 @@ _Feel free to to add a mini profile with links to you, your organization, and an
 * [elk.zone/mas.to/@Todepond](https://elk.zone/mas.to/@Todepond)
 * cellular automata / / fractals / / esoteric coding / / infinity
 * London
-
 
 ## Matt Wynne
 * Independent consultant/contractor - available for hire!
@@ -95,13 +101,18 @@ _Links to software. Please link to (open) source code, your attendee profile is 
 * https://dxos.org
 * React and TypeScript SDK
 
+## Ethersync
+* Real-time collaborative editing of local text files.
+* It's in the ideation/planning phase
+* Talk to Moritz Neeb
+
 ## ODD SDK
 * Fission's local-first, edge computing stack for decentralized web applications with auth and storage without needing a complex backend.
 * https://odd.dev/
 * TypeScript SDK, UCAN, WNFS
 * Workshop: https://github.com/oddsdk/local-first-unconf-workshop-2023
 
-## Some Project
+
 * a one liner of what it does
 * a cool source code link
 * some keywords and/or associated people
