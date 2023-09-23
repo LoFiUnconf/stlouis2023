@@ -59,6 +59,7 @@ _Feel free to to add a mini profile with links to you, your organization, and an
 * slightly-surreal creative-coding
 * tldraw
 * [youtube.com/@TodePond](https://youtube.com/@TodePond)
+* [elk.zone/mas.to/@Todepond](https://elk.zone/mas.to/@Todepond)
 * cellular automata / / fractal / / spatial programming / / infinity 
 * London
 
