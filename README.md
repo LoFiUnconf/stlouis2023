@@ -55,6 +55,15 @@ _Feel free to to add a mini profile with links to you, your organization, and an
 * jess at dxos.org
 * Interested in building tools for building tools.
 
+## Lu Wilson
+* slightly-surreal creative-coding
+* tldraw
+* [youtube.com/@TodePond](https://youtube.com/@TodePond)
+* [elk.zone/mas.to/@Todepond](https://elk.zone/mas.to/@Todepond)
+* cellular automata / / fractals / / esoteric coding / / infinity
+* London
+
+
 ## Matt Wynne
 * Independent consultant/contractor - available for hire!
 * Co-lead of https://github.com/cucumber project (15 years old! 🥒)
