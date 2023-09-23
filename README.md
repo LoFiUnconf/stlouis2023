@@ -75,9 +75,15 @@ _Links to software. Please link to (open) source code, your attendee profile is 
 * Briar is built on an encryption and synchronization layer called [Bramble](https://code.briarproject.org/briar/briar-spec) to privately synchronize directed acyclic graphs.
 
 ## DXOS
-* A developer platform for building local-first, multiplayr, interoperable apps where users own their own data. 
+* A developer platform for building local-first, multiplayer, interoperable apps where users own their own data. 
 * https://dxos.org
 * React and TypeScript SDK
+
+## ODD SDK
+* Fission's local-first, edge computing stack for decentralized web applications with auth and storage without needing a complex backend.
+* https://odd.dev/
+* TypeScript SDK, UCAN, WNFS
+* Workshop: https://github.com/oddsdk/local-first-unconf-workshop-2023
 
 ## Some Project
 * a one liner of what it does
