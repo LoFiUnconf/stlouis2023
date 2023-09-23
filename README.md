@@ -49,6 +49,12 @@ _Feel free to to add a mini profile with links to you, your organization, and an
 * paul (at) briarproject.org
 * Mesh Networking, Structured Editing, and Computer Interface Design.
 
+## Jess Martin
+* Building DXOS, a platform for building local-first, multiplayer, interoperable apps where users own their own data. 
+* https://jessmart.in
+* jess at dxos.org
+* Interested in building tools for building tools.
+
 ## Attendee Name
 * One liner 
 * Organization or project affiliation
@@ -67,6 +73,11 @@ _Links to software. Please link to (open) source code, your attendee profile is 
 * [Android Source Code]()
 * [Desktop Source Code]()
 * Briar is built on an encryption and synchronization layer called [Bramble](https://code.briarproject.org/briar/briar-spec) to privately synchronize directed acyclic graphs.
+
+## DXOS
+* A developer platform for building local-first, multiplayr, interoperable apps where users own their own data. 
+* https://dxos.org
+* React and TypeScript SDK
 
 ## Some Project
 * a one liner of what it does
