@@ -6,11 +6,11 @@ A community event for everybody interested in local-first software in St. Louis,
 
 ​We particularly want to bring together people who are actively working on local-first projects — be it building frameworks or tools, developing local-first apps, or doing research in the area. But we also welcome people who are simply curious and want to learn more about the topic.
 
-​The event will have an informal unconference style. Instead of a series of long presentations, we will have self-organized discussion groups around your topics of interest. 
+​The event will have an informal unconference style. Instead of a series of long presentations, we will have self-organized discussion groups around your topics of interest.
 
 [Registration](https://lu.ma/localfirstswunconf-stlouis) is currently full. [Add your name to the waitlist](https://forms.gle/1CQRCFqrGQKyXb4R9) - we will be doing a final announcement on Friday.
 
-Organizers: 
+Organizers:
 
 * Brooklyn Zelenka
 * Martin Kleppmann
@@ -50,7 +50,7 @@ _Feel free to to add a mini profile with links to you, your organization, and an
 * Mesh Networking, Structured Editing, and Computer Interface Design.
 
 ## Jess Martin
-* Building DXOS, a platform for building local-first, multiplayer, interoperable apps where users own their own data. 
+* Building DXOS, a platform for building local-first, multiplayer, interoperable apps where users own their own data.
 * https://jessmart.in
 * jess at dxos.org
 * Interested in building tools for building tools.
@@ -78,13 +78,13 @@ _Feel free to to add a mini profile with links to you, your organization, and an
 * [Nelson, BC](https://www.google.com/maps/place/Nelson,+BC/@49.4954659,-117.3291896,13z/data=!3m1!4b1!4m6!3m5!1s0x537cb41f1c6bb871:0x6d0054861620bcc2!8m2!3d49.4928119!4d-117.2948343!16zL20vMDFndHZo?entry=ttu)
 
 ## Attendee Name
-* One liner 
+* One liner
 * Organization or project affiliation
 * Places to follow you on the internet
 * Some things you're interested in, keyword style
 * A geo-location
 * Everything is optional
-  
+
 # Projects
 
 _Links to software. Please link to (open) source code, your attendee profile is the right place for company affiliations_
@@ -97,7 +97,7 @@ _Links to software. Please link to (open) source code, your attendee profile is 
 * Briar is built on an encryption and synchronization layer called [Bramble](https://code.briarproject.org/briar/briar-spec) to privately synchronize directed acyclic graphs.
 
 ## DXOS
-* A developer platform for building local-first, multiplayer, interoperable apps where users own their own data. 
+* A developer platform for building local-first, multiplayer, interoperable apps where users own their own data.
 * https://dxos.org
 * React and TypeScript SDK
 
@@ -126,3 +126,8 @@ _Links to notes from sessions. You might try a [HackMD](https://hackmd.io), feel
 * one liner
 * who scribed this?
 * link to external notes
+
+## Local first and Capitalism
+* What does commerically successful local-first software look like?
+* @ConradIrwin
+* ./notes/local-first-and-capitalism.md
