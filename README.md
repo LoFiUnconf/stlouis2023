@@ -55,6 +55,13 @@ _Feel free to to add a mini profile with links to you, your organization, and an
 * jess at dxos.org
 * Interested in building tools for building tools.
 
+## Lu Wilson
+* slightly-surreal creative-coding
+* tldraw
+* [youtube.com/@TodePond](https://youtube.com/@TodePond)
+* cellular automata / / fractal / / spatial programming / / infinity 
+* London
+
 ## Attendee Name
 * One liner 
 * Organization or project affiliation
