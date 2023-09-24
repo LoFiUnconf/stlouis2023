@@ -86,6 +86,12 @@ _Feel free to to add a mini profile with links to you, your organization, and an
 * TypeScript / Ruby / Refactoring / TDD / OpenSource / Sustainability / Simplicty
 * [Nelson, BC](https://www.google.com/maps/place/Nelson,+BC/@49.4954659,-117.3291896,13z/data=!3m1!4b1!4m6!3m5!1s0x537cb41f1c6bb871:0x6d0054861620bcc2!8m2!3d49.4928119!4d-117.2948343!16zL20vMDFndHZo?entry=ttu)
 
+## Nick (@nichoth)
+* Building E2E encrypted social networking applications
+* [Half Light](https://github.com/ssc-half-light)
+* [nichoth.com](https://nichoth.com/)
+* Interested in the intersection of local & encrypted data.
+
 ## Attendee Name
 * One liner
 * Organization or project affiliation
@@ -109,6 +115,15 @@ _Links to software. Please link to (open) source code, your attendee profile is 
 * Endatabas is a hybrid (HTAP) SQL document database with full history
 * https://github.com/endatabas/endb ([Docs](https://docs.endatabas.com))
 * Steven Deobald / Håkan Råberg - Common Lisp, Rust, Apache Arrow
+
+## Half Light
+* E2E encrypted social networking
+* [the github organization](https://github.com/ssc-half-light)
+
+## Some Project
+* a one liner of what it does
+* a cool source code link
+* some keywords and/or associated people
 
 ## DXOS
 * A developer platform for building local-first, multiplayer, interoperable apps where users own their own data. 
