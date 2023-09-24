@@ -117,7 +117,7 @@ _Links to software. Please link to (open) source code, your attendee profile is 
 * Steven Deobald / Håkan Råberg - Common Lisp, Rust, Apache Arrow
 
 ## Half Light
-* E2E encrypted social networking
+* E2E encrypted social networking, based on Webnative Filesystem by Fission
 * [the github organization](https://github.com/ssc-half-light)
 
 ## Some Project
