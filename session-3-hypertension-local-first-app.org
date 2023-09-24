@@ -1,0 +1,89 @@
+* hypertension app
+- app: [[simple.org][simple.org]]
+- repo: https://github.com/simpledotorg/simple-android
+- Srihari Sriraman
+
+** background
+- most people die from heart disease
+  - hypertension (primary)
+  - also diabetes
+- India: 250M with hypertension
+  - not much being done despite simple solution
+  - take your medicine regularly... for life
+- WHO prioritized this problem
+  - Bill & Gates, Chan Zuck, Bloomberg foundations all pitched in
+- 5 years in the process
+  - bring visibility to the problem
+    - especially to the cities govts(?), the people
+    - the drugs needed, how it is handled
+  - started with population health perspective
+    - every individual matters but we're talking about hundreds of
+      millions of people, so that's the focus early on
+    - so... they started just by *collecting the data*
+** the app
+- *10 person team*
+  - Person heading project is ex-CDC (American, Tom Frieden)
+  - Designer, director of product, Danial Burko: Dig.com, drew the first firefox logo
+- *needed to work very well offline*
+  - a lot of people working on this problem!
+    - doctors who report the problem
+    - nurses handling the medicine
+    - all of this needs to be collected and reported
+  - *offline first app*
+    - android app
+      - data stored locally, occasionally syncs
+    - get your info, your data, and then you're done.
+    - do not want people stuck on the phone instead of paying attention to the patient.
+- Needed to solve the small cases, though
+  - instead of having a single phone, would have been nice to have P2P data transfers!
+  - ie Nurse scans in the patient and that patient's record/date is
+    automatically transferred over to the doctor's phone (who is in
+    the back office, etc)
+    - didn't get to this part, unfortunately
+- *Largely open source*
+  - *several awards*
+  - for another country to use it, just clone, make the localization requirements, and just re-deploy their own copy on the app store
+
+** problems solved
+- search
+  - hundred of millions of people
+  - several different languages
+    - this is not as "fully" solved for non-latin languages, still very hard
+- Syncing
+  - Offline first but a hosted search solution to bridge the gap for whenever the local data was missing something
+    - search was hybrid, did local then online if possible etc
+    - once the data was fetched, it was stored and local
+  - Deduping by a mix of hard rules but also some heuristics
+    - couldn't be heuristic for obvious reasons:
+      - Mom & Daughter at same address with extremely similar names. A lot of heuristics would dedup this and that's bad!
+** Rollout
+- State by state
+  - Minister of health of each state
+- Previously a paper heavy process
+  - very similar to double book accounting
+  - entirely eliminated in the clinics that have taken up
+  - very successful because the app is so narrow. Only care about hypertension and people being checked for this.
+- Adopted in:
+  - India
+  - Ethopia
+  - Bangladesh
+  - Sri Lanka
+  - Another country, forgot...
+*** First app
+- wasn't just a success from the start
+  - needed to see what distracted the nurses/doctor, what actually helped
+** Measuring success
+- How many people with hypertension are now under control?
+  - X people have hypertension (this is known)
+  - Now how many are regularly coming into their clinic?
+    - regularly in the last 3 months
+- Incentivized to get people back into the clinics
+  - Measuring people who don't come back
+  - Measuring failed follow ups
+** Moving forward
+- DHIS2
+  - clinical data collection
+  - enterprise-ish software
+  - open source
+  - *not local first*
+    - solution? *make it local first*
