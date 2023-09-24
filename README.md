@@ -101,8 +101,8 @@ _Links to software. Please link to (open) source code, your attendee profile is 
 ## Briar Project
 * Briar Project is an offline-first, p2p messaging system that supports transmitting messages over the tor network, WLAN, and Bluetooth.
 * https://briarproject.org
-* [Android Source Code]()
-* [Desktop Source Code]()
+* [Android Source Code](https://code.briarproject.org/briar/briar)
+* [Desktop Source Code](https://code.briarproject.org/briar/briar-desktop)
 * Briar is built on an encryption and synchronization layer called [Bramble](https://code.briarproject.org/briar/briar-spec) to privately synchronize directed acyclic graphs.
 
 ## Endatabas
