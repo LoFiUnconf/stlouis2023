@@ -60,7 +60,7 @@ _Feel free to to add a mini profile with links to you, your organization, and an
 * Mesh Networking, Structured Editing, and Computer Interface Design.
 
 ## Jess Martin
-* Building DXOS, a platform for building local-first, multiplayer, interoperable apps where users own their own data. 
+* Building DXOS, a platform for building local-first, multiplayer, interoperable apps where users own their own data.
 * https://jessmart.in
 * jess at dxos.org
 * Interested in building tools for building tools.
@@ -126,7 +126,7 @@ _Links to software. Please link to (open) source code, your attendee profile is 
 * some keywords and/or associated people
 
 ## DXOS
-* A developer platform for building local-first, multiplayer, interoperable apps where users own their own data. 
+* A developer platform for building local-first, multiplayer, interoperable apps where users own their own data.
 * https://dxos.org
 * React and TypeScript SDK
 
@@ -163,3 +163,9 @@ _Links to notes from sessions. You might try a [HackMD](https://hackmd.io), feel
   - edit code safely: undo / version control
   - schema divergence ([Cambria](https://www.inkandswitch.com/cambria/) suggests some initial directions) 
   - how far can you customize while still being able to collaborate?
+
+## Local first and Capitalism
+
+* What does commerically successful local-first software look like?
+* @ConradIrwin
+* ./notes/local-first-and-capitalism.md
