@@ -36,6 +36,16 @@ _Feel free to to add a mini profile with links to you, your organization, and an
 * What are missing tools for local-first? Why local-first now? What are the structural advantages of LoFi?
 * San Jose, CA
 
+## Steven Deobald
+* Third-Wave Commercial Open Source. Vipassana. Off-grid. Co-ops.
+* (Ex-)Founder of [nilenso](https://nilenso.com), India's first worker-owned tech co-op
+* Founder of the Fortyfourforty Forest Society (a hacker village land co-op)
+* Author of [Vipassana for Hackers](https://www.vipassana-for-hackers.org), meditation for the practically-minded
+* Founder of [Endatabas](https://www.endatabas.com), a hybrid SQL document database with full history
+* `@deobald` everywhere: [GitHub](https://github.com/deobald), [Mastodon](https://fantastic.earth/@deobald), [Twitter](https://twitter.com/deobald), [deobald.ca](https://www.deobald.ca)
+* immutable data is (arguably) the yin to local-first's yang
+* Halifax, NS, Canada / Bangalore, KA, India
+
 ## Sylwia Vargas
 * Let's make Internet more collaborative 🥰
 * CXO at [PartyKit](https://www.partykit.io/)
@@ -54,7 +64,6 @@ _Feel free to to add a mini profile with links to you, your organization, and an
 * https://jessmart.in
 * jess at dxos.org
 * Interested in building tools for building tools.
-
 
 ## Moritz Neeb
 * https://github.com/zormit/
@@ -77,6 +86,12 @@ _Feel free to to add a mini profile with links to you, your organization, and an
 * TypeScript / Ruby / Refactoring / TDD / OpenSource / Sustainability / Simplicty
 * [Nelson, BC](https://www.google.com/maps/place/Nelson,+BC/@49.4954659,-117.3291896,13z/data=!3m1!4b1!4m6!3m5!1s0x537cb41f1c6bb871:0x6d0054861620bcc2!8m2!3d49.4928119!4d-117.2948343!16zL20vMDFndHZo?entry=ttu)
 
+## Nick (@nichoth)
+* Building E2E encrypted social networking applications
+* [Half Light](https://github.com/ssc-half-light)
+* [nichoth.com](https://nichoth.com/)
+* Interested in the intersection of local & encrypted data.
+
 ## Attendee Name
 * One liner
 * Organization or project affiliation
@@ -92,9 +107,23 @@ _Links to software. Please link to (open) source code, your attendee profile is 
 ## Briar Project
 * Briar Project is an offline-first, p2p messaging system that supports transmitting messages over the tor network, WLAN, and Bluetooth.
 * https://briarproject.org
-* [Android Source Code]()
-* [Desktop Source Code]()
+* [Android Source Code](https://code.briarproject.org/briar/briar)
+* [Desktop Source Code](https://code.briarproject.org/briar/briar-desktop)
 * Briar is built on an encryption and synchronization layer called [Bramble](https://code.briarproject.org/briar/briar-spec) to privately synchronize directed acyclic graphs.
+
+## Endatabas
+* Endatabas is a hybrid (HTAP) SQL document database with full history
+* https://github.com/endatabas/endb ([Docs](https://docs.endatabas.com))
+* Steven Deobald / Håkan Råberg - Common Lisp, Rust, Apache Arrow
+
+## Half Light
+* E2E encrypted social networking, based on Webnative Filesystem by Fission
+* [the github organization](https://github.com/ssc-half-light)
+
+## Some Project
+* a one liner of what it does
+* a cool source code link
+* some keywords and/or associated people
 
 ## DXOS
 * A developer platform for building local-first, multiplayer, interoperable apps where users own their own data.
@@ -112,22 +141,31 @@ _Links to software. Please link to (open) source code, your attendee profile is 
 * TypeScript SDK, UCAN, WNFS
 * Workshop: https://github.com/oddsdk/local-first-unconf-workshop-2023
 
-
-* a one liner of what it does
-* a cool source code link
-* some keywords and/or associated people
-
-
 # Notes
 
 _Links to notes from sessions. You might try a [HackMD](https://hackmd.io), feel free to PR in a Markdown file in this repo directly, or external links and resources as needed_
 
-## Some Session Title
-* one liner
-* who scribed this?
-* link to external notes
+
+
+## Local-first for malleable software
+
+- Themes / Why
+  - Local-first naturally suggests more control and ownership over your code, not just your data
+  - Local code and data seems more forkable than cloud apps with a hidden-away server  
+  - We want TLDraw to have plugins and support extension
+  - Webhooks for local-first?
+- Goals / Ideas
+  - Tinker if I want, or have a prebaked experience if I don't want to tinker
+  - interoperate with _current_ world of data silos (2-way sync w/ cloud services?)
+  - store code in the data layer
+  - What's the modern UNIX pipe? Where are the seams for intervention in GUI software?
+- Challenges
+  - edit code safely: undo / version control
+  - schema divergence ([Cambria](https://www.inkandswitch.com/cambria/) suggests some initial directions) 
+  - how far can you customize while still being able to collaborate?
 
 ## Local first and Capitalism
+
 * What does commerically successful local-first software look like?
 * @ConradIrwin
 * ./notes/local-first-and-capitalism.md
