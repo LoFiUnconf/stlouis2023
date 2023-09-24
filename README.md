@@ -130,7 +130,21 @@ _Links to software. Please link to (open) source code, your attendee profile is 
 
 _Links to notes from sessions. You might try a [HackMD](https://hackmd.io), feel free to PR in a Markdown file in this repo directly, or external links and resources as needed_
 
-## Some Session Title
-* one liner
-* who scribed this?
-* link to external notes
+
+
+## Local-first for malleable software
+
+- Themes / Why
+  - Local-first naturally suggests more control and ownership over your code, not just your data
+  - Local code and data seems more forkable than cloud apps with a hidden-away server  
+  - We want TLDraw to have plugins and support extension
+  - Webhooks for local-first?
+- Goals / Ideas
+  - Tinker if I want, or have a prebaked experience if I don't want to tinker
+  - interoperate with _current_ world of data silos (2-way sync w/ cloud services?)
+  - store code in the data layer
+  - What's the modern UNIX pipe? Where are the seams for intervention in GUI software?
+- Challenges
+  - edit code safely: undo / version control
+  - schema divergence ([Cambria](https://www.inkandswitch.com/cambria/) suggests some initial directions) 
+  - how far can you customize while still being able to collaborate?
