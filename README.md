@@ -92,6 +92,11 @@ _Feel free to to add a mini profile with links to you, your organization, and an
 * [nichoth.com](https://nichoth.com/)
 * Interested in the intersection of local & encrypted data.
 
+## elliot
+* Mixing text and visual programming
+* [Polytope / Caretope](https://elliot.website/editor/)
+* [elk.zone/mathstodon.xyz/@vez](https://elk.zone/mathstodon.xyz/@vez)
+
 ## Predrag Gruevski
 * Building [Trustfall](https://github.com/obi1kenobi/trustfall) — query engine for any combination of data sources: APIs, files, AI tools, and traditional databases.
 * Trustfall query playgrounds: [HackerNews](https://play.predr.ag/hackernews) | [Rust crate APIs](https://play.predr.ag/rustdoc)
