@@ -97,6 +97,13 @@ _Feel free to to add a mini profile with links to you, your organization, and an
 * [Polytope / Caretope](https://elliot.website/editor/)
 * [elk.zone/mathstodon.xyz/@vez](https://elk.zone/mathstodon.xyz/@vez)
 
+## Predrag Gruevski
+* Building [Trustfall](https://github.com/obi1kenobi/trustfall) — query engine for any combination of data sources: APIs, files, AI tools, and traditional databases.
+* Trustfall query playgrounds: [HackerNews](https://play.predr.ag/hackernews) | [Rust crate APIs](https://play.predr.ag/rustdoc)
+* [Twitter](https://twitter.com/PredragGruevski/) | [Mastodon](https://hachyderm.io/@predrag) | [bsky](https://staging.bsky.app/profile/predraggruevski.bsky.social)
+* [Blog](https://predr.ag/blog/) | [About](https://predr.ag/about/)
+* compilers, high performance, dev tools, preventing bugs by querying source code 
+
 ## Attendee Name
 * One liner
 * Organization or project affiliation
