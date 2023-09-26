@@ -109,7 +109,12 @@ _Feel free to to add a mini profile with links to you, your organization, and an
 * Trustfall query playgrounds: [HackerNews](https://play.predr.ag/hackernews) | [Rust crate APIs](https://play.predr.ag/rustdoc)
 * [Twitter](https://twitter.com/PredragGruevski/) | [Mastodon](https://hachyderm.io/@predrag) | [bsky](https://staging.bsky.app/profile/predraggruevski.bsky.social)
 * [Blog](https://predr.ag/blog/) | [About](https://predr.ag/about/)
-* compilers, high performance, dev tools, preventing bugs by querying source code 
+* compilers, high performance, dev tools, preventing bugs by querying source code
+
+## Matt Wonlaw
+* Working to make "[functional relational programming](https://softwareengineering.stackexchange.com/questions/170560/what-is-the-difference-between-functional-relational-programming-and-functional)" on top of a collaborative and local-first DB a reality
+* [vlcn.io](https://vlcn.io/) | [twitter | @tantaman](https://twitter.com/tantaman)
+* distributed systems, databases, compilers, incremental view maintenance and reactivity
 
 ## Attendee Name
 * One liner
@@ -160,6 +165,11 @@ _Links to software. Please link to (open) source code, your attendee profile is 
 * TypeScript SDK, UCAN, WNFS
 * Workshop: https://github.com/oddsdk/local-first-unconf-workshop-2023
 
+## Vulcan / cr-sqlite
+* Teaching SQLite to understand CRDTs & collaboration at https://github.com/vlcn-io/cr-sqlite
+* Teaching TypeScript to understand SQL at https://github.com/vlcn-io/typed-sql
+* (alpha) Teaching SQL to understand trees at https://github.com/tantaman/TreeSQL/
+
 # Notes
 
 _Links to notes from sessions. You might try a [HackMD](https://hackmd.io), feel free to PR in a Markdown file in this repo directly, or external links and resources as needed_
@@ -176,6 +186,10 @@ Following the example below, you'll note the YouTube video id can be reused to c
 [![Rapid-Fire DXOS Demo]
 (https://i.ytimg.com/vi/QHX7-kxFVO4/maxresdefault.jpg)] 
 (https://www.youtube.com/watch?v=QHX7-kxFVO4 "Rapid-Fire DXOS Demo")
+
+## cr-sqlite & vlcn.io
+
+[![cr-sqlite & vlcn.io sync demo](https://img.youtube.com/vi/T1ES9x8DKR4/maxresdefault.jpg)](https://www.youtube.com/watch?v=T1ES9x8DKR4)
 
 ## Local-first for malleable software
 
