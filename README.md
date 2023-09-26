@@ -92,6 +92,13 @@ _Feel free to to add a mini profile with links to you, your organization, and an
 * [nichoth.com](https://nichoth.com/)
 * Interested in the intersection of local & encrypted data.
 
+
+## Chris Vermilion
+* Developer at [Remix Labs](https://remixlabs.com), a visual app development platform
+* [verm.me](https://verm.me)
+* Expressivity vs. Safety / Malleability / Interop / Standards / Community-Building
+* [Portland, ME](https://realportland.us)
+
 ## elliot
 * Mixing text and visual programming
 * [Polytope / Caretope](https://elliot.website/editor/)
