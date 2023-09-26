@@ -92,11 +92,24 @@ _Feel free to to add a mini profile with links to you, your organization, and an
 * [nichoth.com](https://nichoth.com/)
 * Interested in the intersection of local & encrypted data.
 
+
 ## Chris Vermilion
 * Developer at [Remix Labs](https://remixlabs.com), a visual app development platform
 * [verm.me](https://verm.me)
 * Expressivity vs. Safety / Malleability / Interop / Standards / Community-Building
 * [Portland, ME](https://realportland.us)
+
+## elliot
+* Mixing text and visual programming
+* [Polytope / Caretope](https://elliot.website/editor/)
+* [elk.zone/mathstodon.xyz/@vez](https://elk.zone/mathstodon.xyz/@vez)
+
+## Predrag Gruevski
+* Building [Trustfall](https://github.com/obi1kenobi/trustfall) — query engine for any combination of data sources: APIs, files, AI tools, and traditional databases.
+* Trustfall query playgrounds: [HackerNews](https://play.predr.ag/hackernews) | [Rust crate APIs](https://play.predr.ag/rustdoc)
+* [Twitter](https://twitter.com/PredragGruevski/) | [Mastodon](https://hachyderm.io/@predrag) | [bsky](https://staging.bsky.app/profile/predraggruevski.bsky.social)
+* [Blog](https://predr.ag/blog/) | [About](https://predr.ag/about/)
+* compilers, high performance, dev tools, preventing bugs by querying source code 
 
 ## Attendee Name
 * One liner
@@ -151,7 +164,18 @@ _Links to software. Please link to (open) source code, your attendee profile is 
 
 _Links to notes from sessions. You might try a [HackMD](https://hackmd.io), feel free to PR in a Markdown file in this repo directly, or external links and resources as needed_
 
+# Demos
 
+There was, unfortunately, limited time during lunch and we didn't get to see all the demos.
+Whether you had a chance to demo or not, you are encouraged to include a link/embed of your project's demo here!
+Following the example below, you'll note the YouTube video id can be reused to create a thumbnail
+(assuming your demo is on YouTube, but you can place another image in that location otherwise).
+
+## Example: DXOS
+
+[![Rapid-Fire DXOS Demo]
+(https://i.ytimg.com/vi/QHX7-kxFVO4/maxresdefault.jpg)] 
+(https://www.youtube.com/watch?v=QHX7-kxFVO4 "Rapid-Fire DXOS Demo")
 
 ## Local-first for malleable software
 
