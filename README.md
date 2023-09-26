@@ -173,9 +173,7 @@ Following the example below, you'll note the YouTube video id can be reused to c
 
 ## Example: DXOS
 
-[![Rapid-Fire DXOS Demo]
-(https://i.ytimg.com/vi/QHX7-kxFVO4/maxresdefault.jpg)] 
-(https://www.youtube.com/watch?v=QHX7-kxFVO4 "Rapid-Fire DXOS Demo")
+[![Rapid-Fire DXOS Demo](https://i.ytimg.com/vi/QHX7-kxFVO4/maxresdefault.jpg)](https://www.youtube.com/watch?v=QHX7-kxFVO4 "Rapid-Fire DXOS Demo")
 
 ## Local-first for malleable software
 
