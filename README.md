@@ -92,7 +92,6 @@ _Feel free to to add a mini profile with links to you, your organization, and an
 * [nichoth.com](https://nichoth.com/)
 * Interested in the intersection of local & encrypted data.
 
-
 ## Chris Vermilion
 * Developer at [Remix Labs](https://remixlabs.com), a visual app development platform
 * [verm.me](https://verm.me)
@@ -116,6 +115,7 @@ _Feel free to to add a mini profile with links to you, your organization, and an
 * [vlcn.io](https://vlcn.io/) | [twitter | @tantaman](https://twitter.com/tantaman)
 * distributed systems, databases, compilers, incremental view maintenance and reactivity
 
+```markdown
 ## Attendee Name
 * One liner
 * Organization or project affiliation
@@ -123,6 +123,7 @@ _Feel free to to add a mini profile with links to you, your organization, and an
 * Some things you're interested in, keyword style
 * A geo-location
 * Everything is optional
+```
 
 # Projects
 
@@ -143,11 +144,6 @@ _Links to software. Please link to (open) source code, your attendee profile is 
 ## Half Light
 * E2E encrypted social networking, based on Webnative Filesystem by Fission
 * [the github organization](https://github.com/ssc-half-light)
-
-## Some Project
-* a one liner of what it does
-* a cool source code link
-* some keywords and/or associated people
 
 ## DXOS
 * A developer platform for building local-first, multiplayer, interoperable apps where users own their own data.
@@ -170,13 +166,16 @@ _Links to software. Please link to (open) source code, your attendee profile is 
 * Teaching TypeScript to understand SQL at https://github.com/vlcn-io/typed-sql
 * (alpha) Teaching SQL to understand trees at https://github.com/tantaman/TreeSQL/
 
-# Notes
-
-_Links to notes from sessions. You might try a [HackMD](https://hackmd.io), feel free to PR in a Markdown file in this repo directly, or external links and resources as needed_
-
+```markdown
+## Some Project
+* a one liner of what it does
+* a cool source code link
+* some keywords and/or associated people
+```
 # Demos
 
 There was, unfortunately, limited time during lunch and we didn't get to see all the demos.
+
 Whether you had a chance to demo or not, you are encouraged to include a link/embed of your project's demo here!
 Following the example below, you'll note the YouTube video id can be reused to create a thumbnail
 (assuming your demo is on YouTube, but you can place another image in that location otherwise).
@@ -188,6 +187,10 @@ Following the example below, you'll note the YouTube video id can be reused to c
 ## cr-sqlite & vlcn.io
 
 [![cr-sqlite & vlcn.io sync demo](https://img.youtube.com/vi/T1ES9x8DKR4/maxresdefault.jpg)](https://www.youtube.com/watch?v=T1ES9x8DKR4)
+
+# Notes
+
+_Links to notes from sessions, or brief inline notes. You might try a [HackMD](https://hackmd.io), feel free to PR in a Markdown file in this repo directly, or external links and resources as needed_
 
 ## Local-first for malleable software
 
@@ -210,4 +213,4 @@ Following the example below, you'll note the YouTube video id can be reused to c
 
 * What does commerically successful local-first software look like?
 * @ConradIrwin
-* ./notes/local-first-and-capitalism.md
+* [notes](./notes/local-first-and-capitalism.md)
