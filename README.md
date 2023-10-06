@@ -115,6 +115,13 @@ _Feel free to to add a mini profile with links to you, your organization, and an
 * [vlcn.io](https://vlcn.io/) | [twitter | @tantaman](https://twitter.com/tantaman)
 * distributed systems, databases, compilers, incremental view maintenance and reactivity
 
+## Josiah Witt
+* Building [DXOS](https://dxos.org), a platform for building local-first, multiplayer, interoperable apps where users own their own data.
+* [josiahwitt.com](https://josiahwitt.com)
+* [@josiah@social.coop](https://elk.zone/social.coop/@josiah)
+* cooperation, community, interoperability, malleable software, open source, p2p, gardening
+* Hamilton, ON, Canada
+
 ```markdown
 ## Attendee Name
 * One liner
