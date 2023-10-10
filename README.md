@@ -122,6 +122,14 @@ _Feel free to to add a mini profile with links to you, your organization, and an
 * cooperation, community, interoperability, malleable software, open source, p2p, gardening
 * Hamilton, ON, Canada
 
+## David Schmudde
+* Recovering artist. Long time Lisper.
+* [Yorba](https://yorba.co/). We're in the digital identity business but personal data is a liability. LoFi is the solution.
+* Personal Homepage: [Beyond the Frame](https://schmud.de/)
+* [@schmudde@mastodon.social](https://mastodon.social/@schmudde/), [schmudde.bsky.social](https://bsky.app/profile/schmudde.bsky.social)
+* art, lisp, system design, software in the public interest, software preservation, education
+* Turin, Italy
+
 ```markdown
 ## Attendee Name
 * One liner
@@ -203,7 +211,7 @@ _Links to notes from sessions, or brief inline notes. You might try a [HackMD](h
 
 - Themes / Why
   - Local-first naturally suggests more control and ownership over your code, not just your data
-  - Local code and data seems more forkable than cloud apps with a hidden-away server  
+  - Local code and data seems more forkable than cloud apps with a hidden-away server
   - We want TLDraw to have plugins and support extension
   - Webhooks for local-first?
 - Goals / Ideas
@@ -213,7 +221,7 @@ _Links to notes from sessions, or brief inline notes. You might try a [HackMD](h
   - What's the modern UNIX pipe? Where are the seams for intervention in GUI software?
 - Challenges
   - edit code safely: undo / version control
-  - schema divergence ([Cambria](https://www.inkandswitch.com/cambria/) suggests some initial directions) 
+  - schema divergence ([Cambria](https://www.inkandswitch.com/cambria/) suggests some initial directions)
   - how far can you customize while still being able to collaborate?
 
 ## Local first and Capitalism
