@@ -130,6 +130,15 @@ _Feel free to to add a mini profile with links to you, your organization, and an
 * art, lisp, system design, software in the public interest, software preservation, education
 * Turin, Italy
 
+## Andre Terron
+* Pursuing coding at the speed of thought
+* Building [Mainframe](https://github.com/andreterron/mainframe) - A personal data warehouse
+* Founding Engineer at [val.town](https://val.town)
+* [@Andre_Terron (~~Twitter~~ 𝕏)](https://twitter.com/Andre_Terron)
+* [elk.zone/mas.to/@andreterron](https://elk.zone/mas.to/@andreterron)
+* reactivity, local-first, editors, full-stack language, quantified self, tools for thought
+* Seattle, WA, USA
+
 ```markdown
 ## Attendee Name
 * One liner
@@ -180,6 +189,11 @@ _Links to software. Please link to (open) source code, your attendee profile is 
 * Teaching SQLite to understand CRDTs & collaboration at https://github.com/vlcn-io/cr-sqlite
 * Teaching TypeScript to understand SQL at https://github.com/vlcn-io/typed-sql
 * (alpha) Teaching SQL to understand trees at https://github.com/tantaman/TreeSQL/
+
+## Mainframe
+* Personal Data Warehouse. Sync your data from everywhere on the internet into your machine.
+* https://github.com/andreterron/mainframe
+* Talk to [Andre Terron](#andre-terron)
 
 ```markdown
 ## Some Project
